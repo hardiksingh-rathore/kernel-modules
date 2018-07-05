@@ -1,0 +1,4 @@
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/uboot-tools/0001-drop-configh-from-tools.patch
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/uboot-tools/0002-tools-only-in-no-dot-config-targets.patch
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/uboot-tools/0003-Make-FIT-support-really-optional.patch
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/uboot-tools/0004-tools-Include-U-Boot-libfdt-headers-from-their-actua.patch

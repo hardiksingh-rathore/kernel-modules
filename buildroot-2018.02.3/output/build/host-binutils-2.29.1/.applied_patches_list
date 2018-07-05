@@ -1,0 +1,6 @@
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/binutils//2.29.1/0001-sh-conf.patch
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/binutils//2.29.1/0002-ld-makefile.patch
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/binutils//2.29.1/0003-check-ldrunpath-length.patch
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/binutils//2.29.1/0004-add-sysroot-fix-from-bug-3049.patch
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/binutils//2.29.1/0005-poison-system-directories.patch
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/binutils//2.29.1/0006-Fixes-LINKER-BUG-.rofixup-section-size-mismatch.patch

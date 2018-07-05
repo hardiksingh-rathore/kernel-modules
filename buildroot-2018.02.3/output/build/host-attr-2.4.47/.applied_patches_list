@@ -1,0 +1,4 @@
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/attr/0001-support-static-installation.patch
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/attr/0002-avoid-glibc-specific-decls-defines.patch
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/attr/0003-portability-fixes.patch
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/package/attr/0004-all-use-install-1-to-install-executables.patch

@@ -1,0 +1,6 @@
+pr-support.o: ../../../libgcc/config/arm/pr-support.c unwind.h \
+ /home/hardik/Project/TFA9879/buildroot-2018.02.3/output/build/host-gcc-initial-6.4.0/build/gcc/include/unwind-arm-common.h
+
+unwind.h:
+
+/home/hardik/Project/TFA9879/buildroot-2018.02.3/output/build/host-gcc-initial-6.4.0/build/gcc/include/unwind-arm-common.h:

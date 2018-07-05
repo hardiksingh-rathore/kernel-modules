@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "./configure --prefix=/home/hardik/Project/TFA9879/buildroot-2018.02.3/output/host --sysconfdir=/home/hardik/Project/TFA9879/buildroot-2018.02.3/output/host/etc --enable-static --target=arm-buildroot-linux-uclibcgnueabihf --with-sysroot=/home/hardik/Project/TFA9879/buildroot-2018.02.3/output/host/arm-buildroot-linux-uclibcgnueabihf/sysroot --disable-__cxa_atexit --with-gnu-ld --disable-libssp --disable-multilib --with-gmp=/home/hardik/Project/TFA9879/buildroot-2018.02.3/output/host --with-mpc=/home/hardik/Project/TFA9879/buildroot-2018.02.3/output/host --with-mpfr=/home/hardik/Project/TFA9879/buildroot-2018.02.3/output/host --with-pkgversion='Buildroot 2018.02.3' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --disable-libsanitizer --enable-tls --disable-libmudflap --enable-threads --without-isl --without-cloog --disable-decimal-float --with-abi=aapcs-linux --with-cpu=cortex-a7 --with-fpu=neon-vfpv4 --with-float=hard --with-mode=arm --enable-languages=c --with-build-time-tools=/home/hardik/Project/TFA9879/buildroot-2018.02.3/output/host/arm-buildroot-linux-uclibcgnueabihf/bin --enable-shared --disable-libgomp";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "abi", "aapcs-linux" }, { "cpu", "cortex-a7" }, { "float", "hard" }, { "mode", "arm" }, { "fpu", "neon-vfpv4" }, { "tls", "gnu" } };

@@ -1,0 +1,9 @@
+config BR2_PACKAGE_AT24C32
+	bool "at24c32"
+	depends on BR2_LINUX_KERNEL
+	help
+	  at24c32 wifi driver
+
+
+comment "at24c32 needs a Linux kernel to be built"
+	depends on !BR2_LINUX_KERNEL
